@@ -1,5 +1,7 @@
 # DIKWP AntiPUA ProactiveAC OS
 
+Created by Yucong Duan (段玉聪).
+
 DIKWP AntiPUA ProactiveAC OS is an offline, GitHub-ready, Chinese-first system for recognizing manipulation / PUA / coercive influence patterns and generating safe, non-retaliatory countermeasures. It integrates DIKWP-Mesh 4.0 SemanticClosure, Nietzsche-inspired genealogy/revaluation, Jung-inspired shadow/projection literacy, and artificial-consciousness-inspired semantic homeostasis.
 
 It is a defense and education system. It is not a tool for manipulating others, stalking, credential capture, covert monitoring, retaliation, or diagnosing people.
